@@ -27,7 +27,7 @@
 ### SQL querry join dataset
 <img src="./images/bigquery-sql-join-query.png" width="1388" /></br>
 
-### olist_geolocation_dataset duplicate check
+### Table olist_geolocation_dataset duplicate check
 <img src="./images/geo-check-duplicate.png" width="1388" /></br>
 
 ### Create olist_geolocation_clean table (transform-command.sql)
@@ -61,3 +61,11 @@
 <img src="./images/pbi-customer.png" width="1388" /></br>
 <img src="./images/pbi-seller.png" width="1388" /></br>
 <img src="./images/pbi-logistic.png" width="1388" /></br>
+
+### Publish dashboard to app.powerbi.com
+- File > Publish to Power BI:
+<img src="./images/pbi-publish.png" width="1388" /></br>
+- View online on app.powerbi,com:
+<img src="./images/pbi-service-app.powerbi.com.png" width="1388" /></br>
+- Datasource refresh config:
+<img src="./images/pbi-refresh-data-source.png" width="1388" /></br>
