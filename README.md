@@ -1,5 +1,5 @@
 # Olist-Ecommerce-Analytics
-
+--------------------------------------------------------------------------------
 ## Table of Contents
 1. [Create new dataset on BigQuery](#create-new-dataset-on-bigquery)  
 2. [Upload CSV dataset to BigQuery (clean_and_load_bigquery.ipynb)](#upload-csv-dataset-to-bigquery-clean_and_load_bigqueryipynb)  
@@ -13,8 +13,11 @@
    - [Access successfully](#access-successfuly)  
    - [Import data](#import-data)  
    - [Load data](#load-data)  
+   - [Create measure](#creat-measure)  
+8. [Visual data](#visual-data)  
+8. [Publish dashboard to app.powerbi.com](#publish-dashboard-to-app.powerbi.com)  
 
-
+--------------------------------------------------------------------------------
 ### Create new dataset on BigQuery
 <img src="./images/create-new-data-set.png" width="1388" /></br>
 
