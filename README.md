@@ -36,6 +36,13 @@
 ### Create olist_geolocation_clean table (transform-command.sql)
 <img src="./images/olist_geolocation_clean.png" width="1388" /></br>
 
+### Customer segment
+<img src="./images/bq-check-customer-segment.png" width="1388" /></br>
+
+### Create olist_customer_segment table (customer-segment.sql)
+<img src="./images/bq-olist_customer_segment.png" width="1388" /></br>
+<img src="./images/bq-check-segment-count.png" width="1388" /></br>
+
 ### SQL command for clean dataset (transform-command.sql)
 <img src="./images/clean-dataset.png" width="1388" /></br>
 
@@ -67,8 +74,13 @@
 
 ### Publish dashboard to app.powerbi.com
 - File > Publish to Power BI:
+
 <img src="./images/pbi-publish.png" width="1388" /></br>
+
 - View online on app.powerbi,com:
+
 <img src="./images/pbi-service-app.powerbi.com.png" width="1388" /></br>
+
 - Datasource refresh config:
+
 <img src="./images/pbi-refresh-data-source.png" width="1388" /></br>
